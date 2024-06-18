@@ -1,3 +1,5 @@
+I explored the dataset on Microsoft SQL Server Management Studio.
+
 -- Data View
 SELECT *
 FROM pizza_sales
